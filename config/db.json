@@ -1,0 +1,7 @@
+{
+  "adapter": "mysql",
+  "host": "localhost",
+  "user": "root",
+  "pass": "",
+  "db": "bir_services" 
+}
