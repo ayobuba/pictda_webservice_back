@@ -28,7 +28,7 @@ session_start();
 define("zroot", __dir__."/"); //comment out when implementing
 define("zweb", zroot."public/"); //comment out when implementing
 
-const zweb = "C:\\xampp\\htdocs\\pictdaservices.ng\\";
+const zweb = "/Applications/MAMP/htdocs/pictdaservices.ng/";
 
 /*if installing zedek in a web sub directory
 ensure you set the path starting with a slash and ending in a trailing slash 
